@@ -6,8 +6,8 @@
 
 - The system employs conditional logic to recommend either:
   
-            🔴 **Risk Transfer (Insurance)** - For high-frequency/high-severity risks with significant financial exposure
-            🟢 **Risk Retention** - For manageable risks with effective mitigation controls
+            **🔴 Risk Transfer (Insurance)** - For high-frequency/high-severity risks with significant financial exposure
+            **🟢 Risk Retention** - For manageable risks with effective mitigation controls
 
 
 ## Key Features
