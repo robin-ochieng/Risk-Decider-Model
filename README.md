@@ -37,18 +37,9 @@ graph TD
 ## Usage
 
 
-1. Risk Identification
-- Describe your potential risk scenario in the input field
-
-2. Frequency Assessment
-- Select between Frequent/Rare occurrence
-
-3. Severity Evaluation
-- For frequent risks, assess High/Low severity
-
-4. Financial Analysis
-- Evaluate potential financial impact (Significant/Manageable)
-
-5. Mitigation Review
-- Consider available risk mitigation strategies
+1. Risk Identification - Describe your potential risk scenario in the input field
+2. Frequency Assessment - Select between Frequent/Rare occurrence
+3. Severity Evaluation - For frequent risks, assess High/Low severity
+4. Financial Analysis - Evaluate potential financial impact (Significant/Manageable)
+5. Mitigation Review - Consider available risk mitigation strategies
 
