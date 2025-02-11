@@ -3,7 +3,7 @@ library(shinyjs)
 
 ui <- fluidPage(
   useShinyjs(),
-  titlePanel("Risk Decider"),
+  titlePanel("Risk Decider Model"),
   tags$style(HTML("
     .decision-box {
       padding: 20px;
